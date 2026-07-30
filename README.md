@@ -18,6 +18,7 @@ Itihaas is a comprehensive Indian heritage tourism platform that connects travel
 
 ## Done by
 <img width="1915" height="903" alt="image" src="project/website/static/team/cto.jpg" />
+
 ### Core Features
 - **Interactive Heritage Map**: Explore UNESCO World Heritage sites and monuments across India
 - **Guided Tours**: Connect with certified tour guides for personalized experiences
